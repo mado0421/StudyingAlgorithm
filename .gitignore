@@ -18,3 +18,5 @@
 *.db-shm
 *.db
 .vs/StudyingAlgorithm/v17/.suo
+*.vsidx
+*.lock
